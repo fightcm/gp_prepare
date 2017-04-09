@@ -1,2 +1,5 @@
 # 设置master对应远程仓库的master分支
 git branch --set-upstream master origin/master
+
+# popen 
+# 使用c／C++ 调用shell 脚本
