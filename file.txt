@@ -7,3 +7,7 @@ git branch --set-upstream master origin/master
 
 #connect_mysql
 #connect mysql by c 
+
+
+# connect mysql cpp 需要更改 文件内好多东西 对不上
+
