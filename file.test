@@ -1,2 +1,0 @@
-# 设置master对应远程仓库的master分支
-git branch --set-upstream master origin/master

@@ -3,3 +3,7 @@ git branch --set-upstream master origin/master
 
 # popen 
 # 使用c／C++ 调用shell 脚本
+
+
+#connect_mysql
+#connect mysql by c 
